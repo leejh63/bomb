@@ -3,7 +3,7 @@
  * Copyright 2011, Dr. Evil Incorporated. All rights reserved.
  *
  * LICENSE:
- * test1
+ * 
  * Dr. Evil Incorporated (the PERPETRATOR) hereby grants you (the
  * VICTIM) explicit permission to use this bomb (the BOMB).  This is a
  * time limited license, which expires on the death of the VICTIM.
